@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`modules login renders <HeaderLogin /> 1`] = `
+[
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2d9bf0",
+        "flexDirection": "column",
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 48,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 8,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          [
+            {
+              "color": "#f14725",
+              "fontSize": 12,
+            },
+            undefined,
+            {
+              "fontFamily": "Ionicons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            {},
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#f14725",
+            "fontSize": 12,
+            "lineHeight": 16,
+            "marginLeft": 8,
+          }
+        }
+      >
+        Відсутнє з'єднання з інтернетом
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "width": "100%",
+        }
+      }
+    >
+      <Image
+        accessibilityLabel="logo"
+        source={
+          {
+            "testUri": "../../../assets/images/sources/logo.png",
+          }
+        }
+        style={
+          [
+            {
+              "width": 50,
+            },
+            {
+              "height": 50,
+            },
+            undefined,
+          ]
+        }
+      />
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "fontSize": 18,
+            "lineHeight": 28,
+            "textAlign": "center",
+          }
+        }
+      >
+        Державна прикордонна 
+ Служба України
+      </Text>
+      <View
+        style={
+          {
+            "width": 40,
+          }
+        }
+      />
+    </View>
+  </View>,
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff544",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "paddingBottom": 16,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "paddingTop": 16,
+      }
+    }
+  >
+    <Image
+      accessibilityLabel="coatOfArms"
+      source={
+        {
+          "testUri": "../../../assets/images/sources/coatOfArms.png",
+        }
+      }
+      style={
+        [
+          {
+            "width": 50,
+          },
+          {
+            "height": 70,
+          },
+          undefined,
+        ]
+      }
+    />
+    <Text
+      style={
+        {
+          "color": "#2268a4",
+          "fontSize": 30,
+          "fontWeight": "bold",
+          "lineHeight": 36,
+          "textAlign": "center",
+        }
+      }
+    >
+      Border register
+    </Text>
+    <View
+      style={
+        {
+          "width": 40,
+        }
+      }
+    />
+  </View>,
+]
+`;
+
+exports[`modules login renders <Login /> 1`] = `null`;
+
+exports[`modules login renders <LoginScreen /> 1`] = `null`;
